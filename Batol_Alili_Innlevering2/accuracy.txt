@@ -1,0 +1,10 @@
+******************* Befor PCA ****************************** 
+Test accuracy with 3 different types of neural network architecture. 
+model1  :  accuracy = 0.9514999985694885
+model2  :  accuracy = 0.949999988079071
+model3  :  accuracy = 0.9514999985694885
+******************* After 0.5 PCA ****************************** 
+Test accuracy with 3 different types of neural network architecture.
+model1  :  accuracy = 0.890999972820282
+model2  :  accuracy = 0.9089999794960022
+model3  :  accuracy = 0.8964999914169312
